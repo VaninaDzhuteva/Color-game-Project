@@ -1,6 +1,8 @@
 # RGB Color Game
 A color guessing game where you match the displayed RGB value to the correct color tile.
 
+## 🔗 Live Demo: https://vaninadzhuteva.github.io/Color-game-Project/
+
 ## 🎮 How to Play
 - Choose a difficulty (Easy / Hard)
 - Match the RGB value shown in the header to the correct color square
